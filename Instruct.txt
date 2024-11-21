@@ -1,0 +1,16 @@
+Sender:
+1. Nhập port: 4 chữ số (Ví dụ: 2323)
+2. Chọn file cần gửi
+3. Bấm start server để chờ receiver
+
+Receiver:
+1. Nhập IP: 
++ Nếu là test trên cùng 1 máy thì 127.0.0.1
++ Nếu khác máy thì:
+Mở Command Prompt trên máy Sender.
+Nhập lệnh: ipconfig.
+Tìm dòng IPv4 Address trong mục Network Adapter đang kết nối (Wi-Fi hoặc Ethernet).
+Ví dụ: 192.168.1.5.
++ Nhập port của sender
++ Chọn đường dẫn cần tải xuống
++ Bấm download để tải
